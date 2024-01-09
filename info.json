@@ -1,5 +1,216 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "GR1ttvspALQ",
+            "name": "Flexi Cowboys - Domination [GR1ttvspALQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Flexi Cowboys - Domination [GR1ttvspALQ].mp4",
+            "size": 17.136658999999998,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Flexi Cowboys - Domination [GR1ttvspALQ].mp4"
+        },
+        {
+            "id": "h1MDlJM_C1k",
+            "name": "Freeez - IOU HD [h1MDlJM_C1k].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Freeez - IOU HD [h1MDlJM_C1k].mp4",
+            "size": 30.701725999999997,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Freeez - IOU HD [h1MDlJM_C1k].mp4"
+        },
+        {
+            "id": "TVsB-vmr2rU",
+            "name": "Pink Floyd - Zabriskie Point (Fan-Made Album) [TVsB-vmr2rU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Pink Floyd - Zabriskie Point (Fan-Made Album) [TVsB-vmr2rU].mp4",
+            "size": 65.20415899999999,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Pink Floyd - Zabriskie Point (Fan-Made Album) [TVsB-vmr2rU].mp4"
+        },
+        {
+            "id": "A-IhS_ltY8U",
+            "name": "Ethio Jazz Mix Vol.1 (Ethiopian Jazz, Tizita, Modal Jazz...) [A-IhS_ltY8U].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Ethio Jazz Mix Vol.1 (Ethiopian Jazz, Tizita, Modal Jazz...) [A-IhS_ltY8U].mp4",
+            "size": 81.92632499999999,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Ethio Jazz Mix Vol.1 (Ethiopian Jazz, Tizita, Modal Jazz...) [A-IhS_ltY8U].mp4"
+        },
+        {
+            "id": "HtFE5zI6xyE",
+            "name": "Duke Ellington And His Orchestra  -Nutcracker Suite-1960 (FULL ALBUM) [HtFE5zI6xyE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Duke Ellington And His Orchestra  -Nutcracker Suite-1960 (FULL ALBUM) [HtFE5zI6xyE].mp4",
+            "size": 30.278772999999997,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Duke Ellington And His Orchestra  -Nutcracker Suite-1960 (FULL ALBUM) [HtFE5zI6xyE].mp4"
+        },
+        {
+            "id": "bOEJ9wHyQ8-",
+            "name": "Keith & Ken with The Jamaican Steel Band \u200e- You'll Love Jamaica (1965) -xbOEJ9wHyQ8-.mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Keith & Ken with The Jamaican Steel Band \u200e- You'll Love Jamaica (1965) -xbOEJ9wHyQ8-.mp4",
+            "size": 26.91929,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Keith & Ken with The Jamaican Steel Band \u200e- You'll Love Jamaica (1965) -xbOEJ9wHyQ8-.mp4"
+        },
+        {
+            "id": "TkRyDV5QAy0",
+            "name": "John Lee Hooker - Whiskey & Wimmen (Full Album) [TkRyDV5QAy0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/John Lee Hooker - Whiskey & Wimmen (Full Album) [TkRyDV5QAy0].mp4",
+            "size": 64.22654299999999,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/John Lee Hooker - Whiskey & Wimmen (Full Album) [TkRyDV5QAy0].mp4"
+        },
+        {
+            "id": "13m2fO7KTes",
+            "name": "Anton Eberl - Piano Concerto in C-major, Op.36 (1803) [13m2fO7KTes].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Anton Eberl - Piano Concerto in C-major, Op.36 (1803) [13m2fO7KTes].mp4",
+            "size": 43.572696,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Anton Eberl - Piano Concerto in C-major, Op.36 (1803) [13m2fO7KTes].mp4"
+        },
+        {
+            "id": "-qBkb6c-5TU",
+            "name": "Jules Massenet - M\u00e9ditation from Tha\u00efs (1894) [-qBkb6c-5TU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Jules Massenet - M\u00e9ditation from Tha\u00efs (1894) [-qBkb6c-5TU].mp4",
+            "size": 17.354699,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Jules Massenet - M\u00e9ditation from Tha\u00efs (1894) [-qBkb6c-5TU].mp4"
+        },
+        {
+            "id": "5jbzdl9isW0",
+            "name": "Fela Kuti - Live With Ginger Baker (LP) [5jbzdl9isW0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Fela Kuti - Live With Ginger Baker (LP) [5jbzdl9isW0].mp4",
+            "size": 94.086185,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Fela Kuti - Live With Ginger Baker (LP) [5jbzdl9isW0].mp4"
+        },
+        {
+            "id": "VK3NhVr0PV8",
+            "name": "Judas Priest - Take on the World (BBC Performance) [VK3NhVr0PV8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Judas Priest - Take on the World (BBC Performance) [VK3NhVr0PV8].mp4",
+            "size": 8.386792,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Judas Priest - Take on the World (BBC Performance) [VK3NhVr0PV8].mp4"
+        },
+        {
+            "id": "PWFkhLUcvo0",
+            "name": "Judas Priest - Love Bites (AC3 Stereo) [PWFkhLUcvo0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Judas Priest - Love Bites (AC3 Stereo) [PWFkhLUcvo0].mp4",
+            "size": 11.337472,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Judas Priest - Love Bites (AC3 Stereo) [PWFkhLUcvo0].mp4"
+        },
+        {
+            "id": "_2XZq7l9EF8",
+            "name": "MOGADISCO - Dancing Mogadishu (Somalia 1972   1991) [_2XZq7l9EF8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/MOGADISCO - Dancing Mogadishu (Somalia 1972   1991) [_2XZq7l9EF8].mp4",
+            "size": 64.96025399999999,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/MOGADISCO - Dancing Mogadishu (Somalia 1972   1991) [_2XZq7l9EF8].mp4"
+        },
+        {
+            "id": "uCRtHVEroQ0",
+            "name": "Charlie Sexton - Beat's So Lonely [uCRtHVEroQ0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Charlie Sexton - Beat's So Lonely [uCRtHVEroQ0].mp4",
+            "size": 8.05308,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Charlie Sexton - Beat's So Lonely [uCRtHVEroQ0].mp4"
+        },
+        {
+            "id": "0G5sKqn8c_o",
+            "name": "Treasure Isle Records - The Ultimate Collection, Volume 1 [0G5sKqn8c_o].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Treasure Isle Records - The Ultimate Collection, Volume 1 [0G5sKqn8c_o].mp4",
+            "size": 62.226098,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Treasure Isle Records - The Ultimate Collection, Volume 1 [0G5sKqn8c_o].mp4"
+        },
+        {
+            "id": "3zUUtf7gOe8",
+            "name": "Men Without Hats - Pop Goes The World [3zUUtf7gOe8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Men Without Hats - Pop Goes The World [3zUUtf7gOe8].mp4",
+            "size": 20.321172,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Men Without Hats - Pop Goes The World [3zUUtf7gOe8].mp4"
+        },
+        {
+            "id": "64T6ugyWXAA",
+            "name": "Mississippi Fred McDowell - Shake 'Em On Down [64T6ugyWXAA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Mississippi Fred McDowell - Shake 'Em On Down [64T6ugyWXAA].mp4",
+            "size": 11.594429,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Mississippi Fred McDowell - Shake 'Em On Down [64T6ugyWXAA].mp4"
+        },
+        {
+            "id": "PvwN2bnu-S8",
+            "name": "Pussycat - Mississippi \u2022 TopPop [PvwN2bnu-S8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Pussycat - Mississippi \u2022 TopPop [PvwN2bnu-S8].mp4",
+            "size": 11.719951,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Pussycat - Mississippi \u2022 TopPop [PvwN2bnu-S8].mp4"
+        },
+        {
+            "id": "wH_0_pijbZY",
+            "name": "Shabba Ranks - Ting-A-ling [wH_0_pijbZY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Shabba Ranks - Ting-A-ling [wH_0_pijbZY].mp4",
+            "size": 14.291687999999999,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Shabba Ranks - Ting-A-ling [wH_0_pijbZY].mp4"
+        },
+        {
+            "id": "2e3TeKlmMn8",
+            "name": "Fran\u00e7ois Couperin - Forlane - Rondeau [2e3TeKlmMn8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Fran\u00e7ois Couperin - Forlane - Rondeau [2e3TeKlmMn8].mp4",
+            "size": 4.55474,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Fran\u00e7ois Couperin - Forlane - Rondeau [2e3TeKlmMn8].mp4"
+        },
+        {
+            "id": "ScsJ8GOlM7Y",
+            "name": "Mozart - Alla Turca - Arranged for Piano & Orchestra [ScsJ8GOlM7Y].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Mozart - Alla Turca - Arranged for Piano & Orchestra [ScsJ8GOlM7Y].mp4",
+            "size": 25.191211,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Mozart - Alla Turca - Arranged for Piano & Orchestra [ScsJ8GOlM7Y].mp4"
+        },
+        {
+            "id": "YMTHsK3MlzA",
+            "name": "Yuse\u0332f\u0332 L\u0332a\u0332t\u0332e\u0332e\u0332f \u2013 \u0332E\u0332a\u0332s\u0332t\u0332e\u0332r\u0332n S\u0332o\u0332u\u0332n\u0332d\u0332s (\u03321\u03329\u03326\u03321\u0332)\u0332 [YMTHsK3MlzA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Yuse\u0332f\u0332 L\u0332a\u0332t\u0332e\u0332e\u0332f \u2013 \u0332E\u0332a\u0332s\u0332t\u0332e\u0332r\u0332n S\u0332o\u0332u\u0332n\u0332d\u0332s (\u03321\u03329\u03326\u03321\u0332)\u0332 [YMTHsK3MlzA].mp4",
+            "size": 38.356691,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Yuse\u0332f\u0332 L\u0332a\u0332t\u0332e\u0332e\u0332f \u2013 \u0332E\u0332a\u0332s\u0332t\u0332e\u0332r\u0332n S\u0332o\u0332u\u0332n\u0332d\u0332s (\u03321\u03329\u03326\u03321\u0332)\u0332 [YMTHsK3MlzA].mp4"
+        },
+        {
+            "id": "QpBPzmh3894",
+            "name": "I Mean You [QpBPzmh3894].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/I Mean You [QpBPzmh3894].mp4",
+            "size": 14.544053,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/I Mean You [QpBPzmh3894].mp4"
+        },
+        {
+            "id": "-QMAlGAoiuQ",
+            "name": "Sirenes. Claude Debussy [-QMAlGAoiuQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Sirenes. Claude Debussy [-QMAlGAoiuQ].mp4",
+            "size": 26.321292999999997,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Sirenes. Claude Debussy [-QMAlGAoiuQ].mp4"
+        },
+        {
+            "id": "ImJpqutxOmg",
+            "name": "The Icicle Works - Birds Fly (Whisper To A Scream) HD [ImJpqutxOmg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/The Icicle Works - Birds Fly (Whisper To A Scream) HD [ImJpqutxOmg].mp4",
+            "size": 28.340204,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/The Icicle Works - Birds Fly (Whisper To A Scream) HD [ImJpqutxOmg].mp4"
+        },
+        {
+            "id": "kSIMVnPA994",
+            "name": "Jean-Michel Jarre - Oxygene, Pt. 4 [kSIMVnPA994].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Jean-Michel Jarre - Oxygene, Pt. 4 [kSIMVnPA994].mp4",
+            "size": 5.960579,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Jean-Michel Jarre - Oxygene, Pt. 4 [kSIMVnPA994].mp4"
+        },
+        {
+            "id": "Tu1GLEh3wO4",
+            "name": "Mondo Rock - Come Said The Boy (1984) [Tu1GLEh3wO4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Mondo Rock - Come Said The Boy (1984) [Tu1GLEh3wO4].mp4",
+            "size": 8.697785,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Mondo Rock - Come Said The Boy (1984) [Tu1GLEh3wO4].mp4"
+        },
+        {
+            "id": "8-glRuE-geM",
+            "name": "Amparo Ochoa - El Barz\u00f3n  [Official Lyrics Video] [8-glRuE-geM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Amparo Ochoa - El Barz\u00f3n  [Official Lyrics Video] [8-glRuE-geM].mp4",
+            "size": 7.913266999999999,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Amparo Ochoa - El Barz\u00f3n  [Official Lyrics Video] [8-glRuE-geM].mp4"
+        },
+        {
+            "id": "JE2sCISQmpE",
+            "name": "Spandau Ballet - To Cut A Long Story Short (HD Remastered) [JE2sCISQmpE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Spandau Ballet - To Cut A Long Story Short (HD Remastered) [JE2sCISQmpE].mp4",
+            "size": 26.856931,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Spandau Ballet - To Cut A Long Story Short (HD Remastered) [JE2sCISQmpE].mp4"
+        },
+        {
+            "id": "8T_-HmFM-14",
+            "name": "Pleasure Seekers - Give Up The Funk (1983) [8T_-HmFM-14].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h5/videos/Pleasure Seekers - Give Up The Funk (1983) [8T_-HmFM-14].mp4",
+            "size": 47.251977,
+            "url": "https://github.com/circuitalmynds/music_h5/raw/main/videos/Pleasure Seekers - Give Up The Funk (1983) [8T_-HmFM-14].mp4"
+        }
+    ],
+    "total_size": 918.2867219999999
 }
